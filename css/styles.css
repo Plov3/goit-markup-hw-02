@@ -63,6 +63,9 @@ body {
     letter-spacing: 0.02em;
     color: var(--third-color);
 }
+.current {
+    color: var(--main-color);
+}  
 .navigation-page-link:hover, 
 .navigation-page-link:focus,
 .contact-link:hover,
