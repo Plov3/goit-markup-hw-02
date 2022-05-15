@@ -158,7 +158,16 @@ body {
     font-size: 16px;
     line-height: 1.87;
 }
-
+.portfolio-example {
+    width: 370px;
+    height: 404px;
+}
+.portfolio-example:hover,
+.portfolio-example:focus {
+    box-sizing: border-box;
+    background: #FFFFFF;
+    border: 1px solid #EEEEEE;
+}
 /* /filter */
 /* footer */
 .footer {
