@@ -74,6 +74,9 @@ body {
 }
 /* /header */
 /* hero */
+.hero {
+    background: #2F303A;
+}
 .hero-header {
     font-weight: 900;
     font-size: 44px;
@@ -82,7 +85,6 @@ body {
     letter-spacing: 0.06em;
     text-transform: uppercase;
     color: #FFFFFF;
-    background: #2F303A;
 }
 .hero-btn {
     font-weight: 700;
@@ -118,6 +120,9 @@ body {
 }
 /* /advantages */
 /* our team */
+.team {
+    background: #F5F4FA;
+}
 .team-unit-name {
     font-weight: 500;
     font-size: 16px;
@@ -181,6 +186,9 @@ body {
     line-height: 1.71;
     letter-spacing: 0.03em;
     color: rgba(255, 255, 255, 0.6);
+}
+.map {
+    color: #FFFFFF;
 }
 .footer-contact-link:hover,
 .footer-contact-link:focus {
